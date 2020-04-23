@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dadc809c449fa1c45a4d1e7c127bcfd4, type: 3}
+  m_Name: SonicPlayerAudio
+  m_EditorClassIdentifier: 
+  jump: {fileID: 8300000, guid: 1a11376c612c26341b4f5509baa80a4b, type: 3}
+  brake: {fileID: 8300000, guid: 44891a9ac56696e439aeddafc7eab292, type: 3}
+  spin: {fileID: 8300000, guid: 5319389b1891c6b41b0dcc0463b2f188, type: 3}
+  spinDashCharge: {fileID: 8300000, guid: c2e804e16760d4049bb1d3d7153a8e94, type: 3}
+  spinDashRelease: {fileID: 8300000, guid: 43b6bc6edb4ccb84da3ca7c08240a6a5, type: 3}
+  ringLoss: {fileID: 8300000, guid: 8057b3c489171234792321afc8a5fc9e, type: 3}
+  dead: {fileID: 8300000, guid: 26e50c4475bb20d4ebaf7a644cdeec6c, type: 3}

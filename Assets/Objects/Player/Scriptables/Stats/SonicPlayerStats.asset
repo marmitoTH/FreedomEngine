@@ -1,0 +1,46 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 330dbffe413482845a64731c25cdeb84, type: 3}
+  m_Name: SonicPlayerStats
+  m_EditorClassIdentifier: 
+  minAngleToRotate: 12
+  minSpeedToSlide: 5
+  minAngleToSlide: 45
+  minAngleToFall: 90
+  pushBack: 6
+  diePushUp: 13
+  invincibleTime: 5
+  controlLockTime: 0.5
+  topSpeed: 13
+  maxSpeed: 45
+  maxLostRingCount: 32
+  ringScatterForce: 15
+  acceleration: 7
+  deceleration: 60
+  friction: 5.625
+  slope: 15
+  minSpeedToBrake: 8
+  turnSpeed: 1
+  airAcceleration: 14
+  gravity: 26.25
+  minJumpHeight: 8
+  maxJumpHeight: 13
+  minSpeedToRoll: 2
+  minSpeedToUnroll: 1
+  rollDeceleration: 15
+  rollFriction: 2.8125
+  slopeRollUp: 9.375
+  slopeRollDown: 37.5
+  chargePower: 4
+  maxChargePower: 16
+  minReleasePower: 16
+  powerLoss: 15
