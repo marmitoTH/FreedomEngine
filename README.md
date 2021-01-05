@@ -8,7 +8,7 @@
 
 ### How to download
 
-If you don't know how to use git, click in "Clone or download" button and then "Download Zip", you should be able to unzip the files without any softwares, if you don't, you'll need 7zip or winrar to unpack it.
+If you don't know how to use git, click in "Code" button and then "Download Zip", you should be able to unzip the files without any softwares, if you don't, you'll need 7zip or winrar to unpack it.
 
 ### How to open
 
